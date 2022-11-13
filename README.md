@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @okidor99
-- 👀 Je suis passionné par le développememntd'applications mobiles...
+- 👀 Je suis passionné par le développememnt d'applications mobiles...
 - 🌱Je suis en apprentissage de nouveaux frameworks.
 
 - 📫 Bon apprentissage au quotidien!
