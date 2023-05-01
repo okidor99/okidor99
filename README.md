@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @okidor99
+- 👋 Hi, I’m @okidor99 
 - 👀 Je suis passionné par le développememnt d'applications mobiles...
-- 🌱Je suis en apprentissage de nouveaux frameworks.
+- 🌱Je suis en apprentissage de nouveaux frameworks et du métier de Techncien Informatique.
 
 - 📫 Bon apprentissage au quotidien!
 
